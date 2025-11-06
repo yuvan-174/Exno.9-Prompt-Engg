@@ -40,6 +40,7 @@ Output:
 
 https://github.com/user-attachments/assets/feac8f88-4ef6-4289-8343-d82b1a9fc571
 
+<img width="1625" height="840" alt="image" src="https://github.com/user-attachments/assets/84eaf96e-d013-4869-a79e-418881eb7529" />
 
 
 3. Creating a Detailed Prompt
@@ -58,6 +59,9 @@ Output:
 
 
 https://github.com/user-attachments/assets/1c2233cc-8a40-4cd7-8877-26bb2ee1b571
+
+<img width="1622" height="781" alt="image" src="https://github.com/user-attachments/assets/02b1eeb0-5201-4677-8c90-bc33864b09f3" />
+
 
 4. Observation and Comparison
 
