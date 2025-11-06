@@ -1,6 +1,6 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 04/11/2025
+# Date: 06/11/2025
 # Register no.:212223040250
 # Aim:
 To perform the Exploration of Prompting Techniques for Video Generation
